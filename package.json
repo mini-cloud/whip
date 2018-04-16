@@ -1,0 +1,24 @@
+{
+  "name": "whip",
+  "version": "1.0.0",
+  "description": "HTTP Client for REST",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mini-cloud/whip.git"
+  },
+  "keywords": [
+    "http",
+    "client",
+    "rest"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mini-cloud/whip/issues"
+  },
+  "homepage": "https://github.com/mini-cloud/whip#readme"
+}
