@@ -1,5 +1,5 @@
 {
-  "name": "whip",
+  "name": "wrip",
   "version": "1.0.0",
   "description": "HTTP Client for REST",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mini-cloud/whip.git"
+    "url": "git+https://github.com/mini-cloud/wrip.git"
   },
   "keywords": [
     "http",
@@ -18,7 +18,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mini-cloud/whip/issues"
+    "url": "https://github.com/mini-cloud/wrip/issues"
   },
-  "homepage": "https://github.com/mini-cloud/whip#readme"
+  "homepage": "https://github.com/mini-cloud/wrip#readme"
 }
