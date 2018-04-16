@@ -1,2 +1,2 @@
-# whip
+# whips
 HTTP Client for REST
